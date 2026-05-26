@@ -1,0 +1,16 @@
+{
+  "sections": [
+    {
+      "id": "hero-1",
+      "key": "hero",
+      "title": "Welcome to My Service",
+      "content": "<p>Simple landing demo. Edit this from admin.</p>"
+    },
+    {
+      "id": "features-1",
+      "key": "features",
+      "title": "Features",
+      "content": "<ul><li>FastAPI backend</li><li>Static admin</li></ul>"
+    }
+  ]
+}
